@@ -7,5 +7,5 @@
 5. Deploy the testnet
 6. Ask the Lotus team to create a tag
 7. Update this `filecoin-project/testnet-wallaby` repo's [README](README.md) with exact commit/tag used
-8. Notify testnet RPC endpoint providers
+8. Notify testnet RPC endpoint providers and Filscan
 9. Update FVM early builders 
