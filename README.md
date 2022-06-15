@@ -14,14 +14,14 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Network parameters**:
 
-- Supported Sector Sizes: `512 MiB` and `32 GiB`
-- Consensus Miner Min Power: `10 TiB`
+- Supported Sector Sizes: `512 MiB` and `32 GiB` and `64 GiB`
+- Consensus Miner Min Power: `16 GiB`
 - Epoch Duration Seconds: `30`
 - Expected Leaders per Epoch: `5`
 - WindowPoSt Proving Period: `2880`
 - WindowPoSt Challenge Window: `60`
 - WindowPoSt Period Deadlines: `48`
-- Pre-Commit Challenge Delay: `150`
+- Pre-Commit Challenge Delay: `10`
 
 **Bootstrap peers**:
 
