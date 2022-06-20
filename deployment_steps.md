@@ -1,6 +1,6 @@
 # Deployment steps:
 
-1. Use experimental M2 branch at https://github.com/filecoin-project/lotus/tree/experimental/fvm-m2
+1. Use a branch @jennijuju will prepare based on M2 branch at https://github.com/filecoin-project/lotus/tree/experimental/fvm-m2
 2. Add `build/params_wallaby.go`
 3. Create PR to Lotus
 4. Wait 24 hours for any community requests for changes
