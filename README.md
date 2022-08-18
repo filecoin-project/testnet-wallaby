@@ -36,6 +36,7 @@ Meta info about the Wallaby testnet for FVM developers
 
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
+- [Wallaby Testnet Docs](https://github.com/Factor8Solutions/fil-wallaby-network-docs#filecoin-wallaby-testnet-documentation)
 
 **SPs auto-accepting storage deals**
 - **t01017** - 512 MB deals - [more info](https://github.com/Factor8Solutions/fil-wallaby-network-docs#t01017---512mib-sectors)
