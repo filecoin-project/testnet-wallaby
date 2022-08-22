@@ -7,10 +7,10 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Genesis**:
 
-- CAR File: `QmUzhKK99bRWPNN6GvYf7fXcrMrn7LkvGP6FG5DsCHSyrT`
-- Reset Timestamp: `2022-08-06T09:35:35Z`
-- Genesis Block CID: `bafy2bzacec3pf7yqxvw2wg7arrbpq5fwc66zh77ysk7jsvlxigtjh6dov4see`
-- sha1 Digest: `bcf349cb0ca45cfdecad8ac147c80824c8210598`
+- CAR File: `QmRoVbcJL1oFNhRqQ8dLgh8MPNy2u4njy8wJjesCoc4Gxy`
+- Reset Timestamp: `2022-08-22T14:56:32Z`
+- Genesis Block CID: `bafy2bzacebmt3ajudbdjai3sdwefjknswhnyg6k2tvxcafdgzvofzkrk3nsu6`
+- sha1 Digest: `4ac8dccfc022f118519e87b090f8ea71ba6fa976`
 
 **Network parameters**:
 
@@ -34,18 +34,8 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Resources**:
 
-- [**Wallaby Testnet Docs**](https://github.com/Factor8Solutions/fil-wallaby-network-docs#filecoin-wallaby-testnet-documentation)
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
-
-**SPs auto-accepting storage deals**
-- **t01017** - 512 MB deals - [more info](https://github.com/Factor8Solutions/fil-wallaby-network-docs#t01017---512mib-sectors)
-- **t01018** - 32 GB deals - [more info](https://github.com/Factor8Solutions/fil-wallaby-network-docs#t01018---32gib-sectors)
-
-
-&nbsp;
-
-&nbsp;
 
 :warning: [TODO - SAMPLE INFO BELOW] :warning: 
 
