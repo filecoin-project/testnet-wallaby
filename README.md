@@ -34,6 +34,7 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Resources**:
 
+- [Wallaby Docs]: [https://kb.factor8.io/en/docs/wallabynet](https://kb.factor8.io/en/docs/wallabynet)
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
 
