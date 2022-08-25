@@ -38,6 +38,8 @@ Meta info about the Wallaby testnet for FVM developers
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
 
+<hr>
+
 :warning: [TODO - SAMPLE INFO BELOW] :warning: 
 
 **SPs auto-accepting storage deals** 
