@@ -34,10 +34,15 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Resources**:
 
-- **Wallaby Docs**: [https://kb.factor8.io/en/docs/wallabynet](https://kb.factor8.io/en/docs/wallabynet)
-- **Block Explorer**: [https://wallaby.filscan.io](https://wallaby.filscan.io)
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
+- **Wallaby Docs**: [https://kb.factor8.io/en/docs/wallabynet](https://kb.factor8.io/en/docs/wallabynet)
+- **Block Explorer**: [https://wallaby.filscan.io](https://wallaby.filscan.io)
+- **JSON RPC API - Public Endpoints**:
+  - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
+  - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v0 (for stable API v0)
+  - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v1 (for new API v1 - see [API README](https://github.com/filecoin-project/lotus/blob/422f66776fa07827f2cfa9d2f8142ef29dcd2a95/api/README.md))
+
 
 <hr>
 
