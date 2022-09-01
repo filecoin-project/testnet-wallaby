@@ -37,6 +37,7 @@ Meta info about the Wallaby testnet for FVM developers
 - [Slack Channel for Updates: #fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 - [Slack Channel for Questions: #fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
 - **Wallaby Docs**: [https://kb.factor8.io/en/docs/wallabynet](https://kb.factor8.io/en/docs/wallabynet)
+- **Faucet**: https://wallaby.network/#faucet
 - **Block Explorer**: [https://wallaby.filscan.io](https://wallaby.filscan.io)
 - **JSON RPC API - Public Endpoints**:
   - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
