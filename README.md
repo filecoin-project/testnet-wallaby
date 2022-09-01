@@ -32,6 +32,12 @@ Meta info about the Wallaby testnet for FVM developers
 /dns4/sg0.bootstrap.wallaby.network/tcp/1337/p2p/12D3KooWLnYqr4hRoNHBJQVXsFGkDoKuoVfw5R2ASw1bHzrWU5Px
 ```
 
+**FVM release**:
+
+- [Talc(r1)](https://github.com/filecoin-project/testnet-wallaby/issues/2)
+- Lotus commit: https://github.com/filecoin-project/lotus/commit/94895fbdf0f7a970e3c4a1a111172d7ddfc50e12
+- [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
+
 **Resources**:
 
 - Slack Channel for Updates: [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
