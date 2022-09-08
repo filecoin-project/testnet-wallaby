@@ -50,6 +50,8 @@ Meta info about the Wallaby testnet for FVM developers
   - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
   - https://wallaby.node.glif.io/rpc/v0 (for stable API v0)
   - https://wallaby.node.glif.io/rpc/v1 (for new API v1 - see [API README](https://github.com/filecoin-project/lotus/blob/422f66776fa07827f2cfa9d2f8142ef29dcd2a95/api/README.md))
+- **Wallaby SPs auto-accepting storage deals:**
+  - See [Deal Miners section in the Wallaby Docs](https://kb.factor8.io/en/docs/fil/wallabynet#deal-miners)
 - **Schedule**: 
   - Normally reset every Tuesday with [bleeding edge FEVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
   - Follow [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY) for updates
