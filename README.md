@@ -1,5 +1,11 @@
 # Wallaby Testnet
+
 Meta info about the Wallaby testnet for FVM developers
+
+![david-clode-ko-v55B2xOw-unsplash](https://user-images.githubusercontent.com/1017762/189190624-cb1179cd-4b1e-437c-947b-493ebd2568f0.png)
+<br><sup><sub>photo by [David Clode on Unsplash](https://unsplash.com/@davidclode)<sup><sub>
+
+&nbsp;
 
 **Maintainer:** @f8-ptrk
 
