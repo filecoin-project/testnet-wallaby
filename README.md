@@ -40,9 +40,8 @@ Meta info about the Wallaby testnet for FVM developers
 
 **FVM release**:
 
-- [Selenium(r2)](https://github.com/filecoin-project/testnet-wallaby/issues/4)
-- [Talc(r1)](https://github.com/filecoin-project/testnet-wallaby/issues/2)
-- Lotus commit: [c54145e337b8e21e22ea9bb45006122d0e13aa49](https://github.com/filecoin-project/lotus/commit/c54145e337b8e21e22ea9bb45006122d0e13aa49)
+- [FVM M2.1 Copper (r03)](https://github.com/filecoin-project/ref-fvm/issues/830)
+- Lotus commit: [7d91754c0e7f1ac5bb18933d6f40da6c73ad4575](https://github.com/filecoin-project/lotus/commit/7d91754c0e7f1ac5bb18933d6f40da6c73ad4575)
 - [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
 
 **Resources**:
