@@ -68,10 +68,6 @@ Meta info about the Wallaby testnet for FVM developers
 
 :warning: [TODO - SAMPLE INFO BELOW] :warning: 
 
-**SPs auto-accepting storage deals** 
-
-- todo @f8-ptrk, wait 24h before network is declared stable
-
 - [Latest chain snapshot (pruned)](https://fil-chain-snapshots-fallback.s3.amazonaws.com/mainnet/minimal_finality_stateroots_latest.car)
 - [Latest chain snapshot (full)](https://fil-chain-snapshots-fallback.s3.amazonaws.com/mainnet/complete_chain_with_finality_stateroots_latest.car)
 - [Status page and incidents](https://filecoin.statuspage.io/)
