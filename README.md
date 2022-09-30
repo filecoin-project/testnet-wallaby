@@ -70,6 +70,5 @@ Meta info about the Wallaby testnet for FVM developers
 - [Status page and incidents](https://filecoin.statuspage.io/)
 - [Stats dashboard](https://stats.filecoin.io/)
 - [Block explorer: Filscan](https://filscan.io/)
-- [RPC Endpoints] - TODO
 
 :warning: [TODO - SAMPLE INFO ABOVE] :warning: 
