@@ -49,6 +49,7 @@ Meta info about the Wallaby testnet for FVM developers
 - **Wallaby Docs**: [https://kb.factor8.io/en/docs/fil/wallabynet](https://kb.factor8.io/en/docs/fil/wallabynet)
 - **Faucet**: https://wallaby.network/#faucet
 - **Block Explorer**: [https://wallaby.filscan.io](https://wallaby.filscan.io)
+- **Filecoin CID Checker**: [https://cid.wallaby.filecoin.tools](https://cid.wallaby.filecoin.tools/) - check your deal CID’s storage status
 - **JSON RPC API - Public Endpoints**:
   - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
   - https://wallaby.node.glif.io/rpc/v0 (for stable API v0)
