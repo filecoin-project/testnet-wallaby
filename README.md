@@ -48,7 +48,9 @@ Meta info about the Wallaby testnet for FVM developers
 - Slack Channel for Questions: [#fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
 - **Wallaby Docs**: [https://kb.factor8.io/en/docs/fil/wallabynet](https://kb.factor8.io/en/docs/fil/wallabynet)
 - **Faucet**: https://wallaby.network/#faucet
-- **Block Explorer**: [https://wallaby.filscan.io](https://wallaby.filscan.io)
+- **Block Explorers**:
+  - [https://wallaby.filscan.io](https://wallaby.filscan.io)
+  - [https://explorer.glif.io/actor/?network=wallaby](https://explorer.glif.io/actor/?network=wallaby)
 - **Filecoin CID Checker**: [https://cid.wallaby.filecoin.tools](https://cid.wallaby.filecoin.tools/) - check your deal CID’s storage status
 - **JSON RPC API - Public Endpoints**:
   - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
