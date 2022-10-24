@@ -62,7 +62,22 @@ Meta info about the Wallaby testnet for FVM developers
 - **Schedule**: 
   - Normally reset every Tuesday with [bleeding edge FEVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
   - Follow [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY) for updates
-
+- **MetaMask** (HowTo): 
+  - Open MetaMask and add a new network:
+    - Name: Filecoin Wallaby
+    - RPC URL: https://wallaby.node.glif.io/rpc/v0 (once the public RPC has been updated, otherwise use appropriate private URL - **please see the note below**)
+    - ChainID: [**31415**](https://github.com/ethereum-lists/chains/blob/master/_data/chains/eip155-31415.json) (Wallaby's )
+    - Currency symbol: tFIL (Test FIL).
+  - Create a new account in MetaMask to use with Filecoin.
+  - Go to https://explorer.glif.io/ethereum/, and select the account to see its f4 address.
+  - Use the [faucet](https://wallaby.network/#faucet) to draw funds to your f4 or alternatively use lotus send to transfer funds to the f4 address.
+  - Wait until the transaction process, and verify that the funds appear in MetaMask.
+  - Create another new account in MetaMask, obtain its f4 address again.
+  - Use MetaMask to send funds from your first account to your second account. 
+  - **Notes on MM**
+    - Note that you may need to increase the gas limit manually because there's something strange going on with gas estimation at the moment.
+  - **Note on GLIF**:
+    - The GLIF explorer seems to have some problems with f4 addresses right now, please refer to the #fil-net-wallaby-discuss for questions/solutions 
 
 
 <hr>
