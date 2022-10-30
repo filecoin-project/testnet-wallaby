@@ -69,8 +69,8 @@ Meta info about the Wallaby testnet for FVM developers
     - ChainID: [**31415**](https://github.com/ethereum-lists/chains/blob/master/_data/chains/eip155-31415.json) (Wallaby's )
     - Currency symbol: tFIL (Test FIL).
   - Create a new account in MetaMask to use with Filecoin.
-  - Go to https://explorer.glif.io/ethereum/, and select the account to see its f4 address.
-  - Use the [faucet](https://wallaby.network/#faucet) to draw funds to your f4 or alternatively use `lotus send` to transfer funds to the f4 address.
+  - (optional - the faucet accepts 0x style addresses now) Go to https://explorer.glif.io/ethereum/, and select the account to see its f4 address.
+  - Use the [faucet](https://wallaby.network/#faucet) to draw funds to your f4 (0x addresses are transated automatically in the backened) or alternatively use `lotus send` to transfer funds to the f4 address.
   - Wait until the transaction process, and verify that the funds appear in MetaMask.
   - Create another new account in MetaMask, obtain its f4 address again.
   - Use MetaMask to send funds from your first account to your second account. 
