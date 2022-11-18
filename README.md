@@ -51,12 +51,17 @@ Meta info about the Wallaby testnet for FVM developers
 - **Block Explorers**:
   - [https://wallaby.filscan.io](https://wallaby.filscan.io)
   - [https://explorer.glif.io/actor/?network=wallaby](https://explorer.glif.io/actor/?network=wallaby)
-- **Filecoin CID Checker**: [https://wallaby.filecoin.tools](https://wallaby.filecoin.tools/) - check your deal CID’s storage status
+- **Filecoin CID Checker**: [https://wallaby.filecoin.tools](https://wallaby.filecoin.tools/) - check your deal CID’s storage status. This is **not a real-time** application and refreshes every 5 minutes.
+- If you want to play with marketdeals on your own you can access them directly [here](https://marketdeals-wallaby.s3.ap-northeast-1.amazonaws.com/StateMarketDeals.json)
 - **JSON RPC API - Public Endpoints**:
   - Limited to all read API calls + `MPoolPush` (for sending already signed messages)
   - https://wallaby.node.glif.io/rpc/v0 (for stable API v0)
   - https://wallaby.node.glif.io/rpc/v1 (for new API v1 - see [API README](https://github.com/filecoin-project/lotus/blob/422f66776fa07827f2cfa9d2f8142ef29dcd2a95/api/README.md))
   - web socket endpoint: wss://wss.wallaby.node.glif.io/apigw/lotus/rpc/v0
+- **JSON RPC API - Private Endpoints**:
+  - Protected by JWT authorization. Ping @glif-nodes-team in wallaby slack channels to obtain the token.
+  - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v0
+  - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v1
 - **Wallaby SPs auto-accepting storage deals:**
   - See [Deal Miners section in the Wallaby Docs](https://kb.factor8.io/en/docs/fil/wallabynet#deal-miners)
 - **Schedule**: 
