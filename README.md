@@ -7,6 +7,20 @@ Meta info about the Wallaby testnet for FVM developers
 
 &nbsp;
 
+## Quickstart
+
+1. Add the Wallaby testnet to your wallet (e.g. MetaMask).
+    - Go to https://chainlist.org/chain/31415
+    - Click on "Connect wallet"
+2. Create a new account in MetaMask to use with Filecoin.
+3. Use the [faucet](https://wallaby.network/#faucet) to draw funds to your Ethereum address (it will be converted behind the scenes to a Filecoin f4 address)
+4. Follow the transaction in one of the recommended Wallaby testnet explorers:
+    - https://wallaby.filfox.info/en
+    - https://explorer.glif.io/ (select Wallaby from the networks dropdown)
+5. Your account is now funded and can be used in Ethereum tools such as Hardhat, Foundry, Remix, etc.
+
+## Technical details
+
 **Maintainer:** @f8-ptrk
 
 **Genesis**:
@@ -38,8 +52,8 @@ Meta info about the Wallaby testnet for FVM developers
 
 **FVM release**:
 
-- [FVM M2.1 Iron (r04)](https://github.com/filecoin-project/ref-fvm/issues/863)
-- Lotus commit: [a150de86144771e162c21403c30ff101f01cd49f](https://github.com/filecoin-project/lotus/commit/a150de86144771e162c21403c30ff101f01cd49f)
+- [FVM M2.1 Topaz (r08)](https://github.com/filecoin-project/ref-fvm/issues/939)
+- Lotus commit: [8d0403d1f0d6700891a0af200eca9a97180c38da](https://github.com/filecoin-project/lotus/commit/8d0403d1f0d6700891a0af200eca9a97180c38da)
 - [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
 
 **Resources**:
