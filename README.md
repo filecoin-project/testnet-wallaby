@@ -52,7 +52,7 @@ Meta info about the Wallaby testnet for FVM developers
 
 **FVM release**:
 
-- [FVM M2.1 Topaz (r08)](https://github.com/filecoin-project/ref-fvm/issues/940)
+- [FVM M2.1 Sapphire (r08)](https://github.com/filecoin-project/ref-fvm/issues/940)
 - Lotus commit: [cb838cedae49106e9ceb7302add3688a835dbdb4](https://github.com/filecoin-project/lotus/commit/cb838cedae49106e9ceb7302add3688a835dbdb4)
 - [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
 
