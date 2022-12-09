@@ -52,8 +52,8 @@ Meta info about the Wallaby testnet for FVM developers
 
 **FVM release**:
 
-- [FVM M2.1 Sapphire (r08)](https://github.com/filecoin-project/ref-fvm/issues/940)
-- Lotus commit: [cb838cedae49106e9ceb7302add3688a835dbdb4](https://github.com/filecoin-project/lotus/commit/cb838cedae49106e9ceb7302add3688a835dbdb4)
+- [FVM M2.1 Sapphire (r09)](https://github.com/filecoin-project/ref-fvm/issues/940)
+- Lotus commit: [373b8b3517c6ade6f9d346bfe3c0af30007f2b47](https://github.com/filecoin-project/lotus/commit/373b8b3517c6ade6f9d346bfe3c0af30007f2b47)
 - [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
 
 **Resources**:
