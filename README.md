@@ -25,10 +25,10 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Genesis**:
 
-- CAR File: `QmPe6sDt3btoN6TtpFJVrMjjsiFxojMkcVkm36khJ37JB6`
-- Reset Timestamp: `2022-11-17T12:19:22Z`
-- Genesis Block CID: `bafy2bzacebn3zgajhzrkelgihbt6sbveglecq4d3ezqfa652zok6c3a5enkzs`
-- sha1 Digest: `ee5fc220ea9d8e79eb47d03b1236e85d3f21dfdb`
+- CAR File: `QmegzEGQSe1hr6mzyyy9ire56ExedH8Qg4cdhHgEzbtKrW`
+- Reset Timestamp: `2022-12-08T13:46:58Z`
+- Genesis Block CID: `bafy2bzacedrrznill2znp5dap45nishi2lacnp3fyha3zc6kflzme3m7ad6ei:`
+- sha1 Digest: `8d770624c4a57c1b54c1cfaf5cffa6e5cfd55737`
 
 **Network parameters**:
 
