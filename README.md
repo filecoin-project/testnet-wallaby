@@ -25,10 +25,10 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Genesis**:
 
-- CAR File: `Qmd62btfm43bsS2doYEKbWnMstKQCY5vwoa8ScF1qVDuYX`
-- Reset Timestamp: `2022-12-20T14:29:06Z`
-- Genesis Block CID: `bafy2bzacebha2xerd4kax7atfefc5idqdjo5wnacx4r2dodhq32zqncuukhna`
-- sha1 Digest: `1266623f65b988874ddcb576929418dd985e574a`
+- CAR File: `QmNySyNR92DF6TK58YLMaR2cXLqxa1NnQKaLJ3jmN4LSAP`
+- Reset Timestamp: `2022-12-24T1:12:30Z`
+- Genesis Block CID: `bafy2bzaceccyd26lgjsgmg3eszt5daqgif4zdshihhgovraspzyzrp6ulvzx2`
+- sha1 Digest: `e9ed8ddee2d6b9b3724fa44107d1cb6a9e0107a9`
 
 **Network parameters**:
 
@@ -53,7 +53,7 @@ Meta info about the Wallaby testnet for FVM developers
 **FVM release**:
 
 - [FVM M2.1 Carbonado (r10)](https://github.com/filecoin-project/ref-fvm/issues/1052)
-- Lotus commit: [a971868be49e549ee4435a9865402f8a7c35a0f3](https://github.com/filecoin-project/lotus/commit/a971868be49e549ee4435a9865402f8a7c35a0f3)
+- Lotus commit: [f2d5afc09431daea43291c52e38945b3147a7079](https://github.com/filecoin-project/lotus/commit/f2d5afc09431daea43291c52e38945b3147a7079)
 - [List of FVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
 
 **Resources**:
