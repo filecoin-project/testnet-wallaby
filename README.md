@@ -25,10 +25,10 @@ Meta info about the Wallaby testnet for FVM developers
 
 **Genesis**:
 
-- CAR File: `QmNySyNR92DF6TK58YLMaR2cXLqxa1NnQKaLJ3jmN4LSAP`
-- Reset Timestamp: `2022-12-24T1:12:30Z`
-- Genesis Block CID: `bafy2bzaceccyd26lgjsgmg3eszt5daqgif4zdshihhgovraspzyzrp6ulvzx2`
-- sha1 Digest: `e9ed8ddee2d6b9b3724fa44107d1cb6a9e0107a9`
+- CAR File: `QmavrNRhTMbUNFtSJA6VVMMcSyCwQzUpJbSPRjZzKjy3Jg`
+- Reset Timestamp: `2023-01-09T14:54:09Z`
+- Genesis Block CID: `bafy2bzaceaq7a2nole6qaje33tydbvumeykjs4vjh2sh7hunsxwdsblpibxf2`
+- sha1 Digest: `104a283cf7f3e805790c1e4fc02e50ed0f673981`
 
 **Network parameters**:
 
@@ -44,10 +44,11 @@ Meta info about the Wallaby testnet for FVM developers
 **Bootstrap peers**:
 
 ```
-/dns4/de0.bootstrap.wallaby.network/tcp/1337/p2p/12D3KooWHAvUVk5XuxSwi2dNLWbTDDRSGeHxMuWdQ3SQpRuNHbLz
-/dns4/de1.bootstrap.wallaby.network/tcp/1337/p2p/12D3KooWBRqtxhJCtiLmCwKgAQozJtdGinEDdJGoS5oHw7vCjMGc
-/dns4/ca0.bootstrap.wallaby.network/tcp/1337/p2p/12D3KooWCApBpUk7EX9pmEfyky1gKC6N2KJ74S1AwFfvnkDqw3pK
-/dns4/sg0.bootstrap.wallaby.network/tcp/1337/p2p/12D3KooWLnYqr4hRoNHBJQVXsFGkDoKuoVfw5R2ASw1bHzrWU5Px
+/dns4/de0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWGXLjN4FCXyTsvLPUrbZfkA5p7gXJ11WXXB56cQLEmNkE
+/dns4/de1.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWEHyGpfQsLMPhCo4zmfp6uZfhQisiWZMYaPu1j92d2dax
+/dns4/au0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWLEPk3TcgpD7aWoou4dzbgdQA14Y9eTCg9rcoLaLruHtf
+/dns4/ca0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWQAupDxeHoLzmc617FzhWnHHWEt8e2fNfccqByT5mHWPp
+/dns4/sg0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWAkSaZCXSngvgSi4ufVModcExCysnS3JhG6nnprPjVV4o
 ```
 
 **FVM release**:
@@ -59,9 +60,9 @@ Meta info about the Wallaby testnet for FVM developers
 **Resources**:
 
 - Slack Channel for Updates: [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
-- Slack Channel for Questions: [#fil-net-wallaby-help](https://filecoinproject.slack.com/archives/C03KGBVJCKG)
-- **Wallaby Docs**: [https://kb.factor8.dev/docs/filecoin/testnets/wallaby](https://kb.factor8.dev/docs/filecoin/testnets/wallaby)
-- **Faucet**: https://wallaby.network/#faucet
+
+- **Wallaby Docs**: [https://kb.factor8.io/docs/filecoin/testnets/wallaby](https://kb.factor8.dev/docs/filecoin/testnets/wallaby)
+- **Faucet**: https://wallaby.filtest.network/#faucet
 - **Block Explorers**:
   - [https://wallaby.filscan.io](https://wallaby.filscan.io)
   - [https://explorer.glif.io/actor/?network=wallaby](https://explorer.glif.io/actor/?network=wallaby)
@@ -74,7 +75,7 @@ Meta info about the Wallaby testnet for FVM developers
   - https://wallaby.node.glif.io/rpc/v1 (for new API v1 - see [API README](https://github.com/filecoin-project/lotus/blob/422f66776fa07827f2cfa9d2f8142ef29dcd2a95/api/README.md))
   - web socket endpoint: wss://wss.wallaby.node.glif.io/apigw/lotus/rpc/v0
 - **Wallaby SPs auto-accepting storage deals:**
-  - See [Deal Miners section in the Wallaby Docs](https://kb.factor8.dev/docs/filecoin/testnets/wallaby#deal-miners)
+  - See [Deal Miners section in the Wallaby Docs](https://kb.factor8.io/docs/filecoin/testnets/wallaby#deal-miners)
 - **Schedule**: 
   - Normally reset every Tuesday with [bleeding edge FEVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
   - Follow [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY) for updates
@@ -86,7 +87,7 @@ Meta info about the Wallaby testnet for FVM developers
     - Currency symbol: tFIL (Test FIL).
   - Create a new account in MetaMask to use with Filecoin.
   - (OPTIONAL - the faucet accepts 0x style addresses now) Go to https://explorer.glif.io/ethereum/, and select the account to see its f4 address.
-  - Use the [faucet](https://wallaby.network/#faucet) to draw funds to your f4 (0x style addresses are translated automatically to f4's in the backend) or alternatively use `lotus send` to transfer funds to the f4 address.
+  - Use the [faucet](https://wallaby.filtest.network/#faucet) to draw funds to your f4 (0x style addresses are translated automatically to f4's in the backend) or alternatively use `lotus send` to transfer funds to the f4 address.
   - Wait until the transaction process, and verify that the funds appear in MetaMask.
   - Create another new account in MetaMask, (optional) obtain its f4 address again.
   - Use MetaMask to send funds from your first account to your second account. 
