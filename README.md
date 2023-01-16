@@ -1,6 +1,10 @@
 # Wallaby Testnet
 
-Meta info about the Wallaby testnet for FVM developers
+Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
+
+- Not sure which testnet to use? Start with **[Hyperspace](https://github.com/filecoin-project/testnet-hyperspace)** - a stable testnet for Filecoin developers
+
+- [Info about all testnets](https://github.com/filecoin-project/FIPs/discussions/544)
 
 ![david-clode-ko-v55B2xOw-unsplash](https://user-images.githubusercontent.com/1017762/189190624-cb1179cd-4b1e-437c-947b-493ebd2568f0.png)
 <br><sup><sub>photo by [David Clode on Unsplash](https://unsplash.com/@davidclode)<sup><sub>
