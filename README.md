@@ -1,4 +1,4 @@
-:warning: **The network is not running, please use the [hyperspace network](https://github.com/filecoin-project/testnet-hyperspace) instead** :warning:
+:warning: **The network is not currently running, please use the [Hyperspace testnet](https://github.com/filecoin-project/testnet-hyperspace) instead** :warning:
 
 # Wallaby Testnet
 
