@@ -1,3 +1,5 @@
+:warning: **The network is not running, please use the [hyperspac enetwork](https://github.com/filecoin-project/testnet-hyperspace) instead** :warning:
+
 # Wallaby Testnet
 
 Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
