@@ -1,3 +1,7 @@
+:warning: The Hyperspace Testnet has been **discontinued** as of May 31, 2023. :warning:
+
+Please use the [Calibration testnet](https://github.com/filecoin-project/testnet-calibration/blob/main/README.md).
+
 :warning: **The network is not currently running, please use the [Hyperspace testnet](https://github.com/filecoin-project/testnet-hyperspace) instead** :warning:
 
 Wallaby has been shut down until further notice and Hyperspace is the main testnet for Filecoin developers and testing FEVM releases. 
@@ -31,7 +35,7 @@ Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
 
 ## Technical details
 
-**Maintainer:** @f8-ptrk
+**Maintainer:** offline, unmaintained
 
 **Genesis**:
 
@@ -54,11 +58,7 @@ Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
 **Bootstrap peers**:
 
 ```
-/dns4/de0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWGXLjN4FCXyTsvLPUrbZfkA5p7gXJ11WXXB56cQLEmNkE
-/dns4/de1.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWEHyGpfQsLMPhCo4zmfp6uZfhQisiWZMYaPu1j92d2dax
-/dns4/au0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWLEPk3TcgpD7aWoou4dzbgdQA14Y9eTCg9rcoLaLruHtf
-/dns4/ca0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWQAupDxeHoLzmc617FzhWnHHWEt8e2fNfccqByT5mHWPp
-/dns4/sg0.bootstrap.wallaby.yoga/tcp/41000/p2p/12D3KooWAkSaZCXSngvgSi4ufVModcExCysnS3JhG6nnprPjVV4o
+
 ```
 
 **FVM release**:
@@ -71,8 +71,8 @@ Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
 
 - Slack Channel for Updates: [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY)
 
-- **Wallaby Docs**: [https://kb.factor8.io/docs/filecoin/testnets/wallaby](https://kb.factor8.dev/docs/filecoin/testnets/wallaby)
-- **Faucet**: https://wallaby.filtest.network/#faucet
+- **Wallaby Docs**:
+- **Faucet**: 
 - **Block Explorers**:
   - [https://wallaby.filscan.io](https://wallaby.filscan.io)
   - [https://explorer.glif.io/actor/?network=wallaby](https://explorer.glif.io/actor/?network=wallaby)
@@ -89,7 +89,7 @@ Meta info about Wallaby Weekly, a *bleeding edge* testnet for FVM development
   - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v0
   - https://wallaby.dev.node.glif.io/archive/lotus/rpc/v1
 - **Wallaby SPs auto-accepting storage deals:**
-  - See [Deal Miners section in the Wallaby Docs](https://kb.factor8.io/docs/filecoin/testnets/wallaby#deal-miners)
+  - 
 - **Schedule**: 
   - Normally reset every Tuesday with [bleeding edge FEVM releases](https://github.com/filecoin-project/ref-fvm/issues/692)
   - Follow [#fil-net-wallaby-discuss](https://filecoinproject.slack.com/archives/C03KGBTJ0BY) for updates
