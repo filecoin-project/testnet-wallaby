@@ -2,8 +2,6 @@
 
 Please use the [Calibration testnet](https://github.com/filecoin-project/testnet-calibration/blob/main/README.md).
 
-:warning: **The network is not currently running, please use the [Hyperspace testnet](https://github.com/filecoin-project/testnet-hyperspace) instead** :warning:
-
 Wallaby has been shut down until further notice and Hyperspace is the main testnet for Filecoin developers and testing FEVM releases. 
 
 In the future, Wallaby will be used for testing bleeding-edge Wasm FVM releases (see the FVM Roadmap at https://fvm.filecoin.io).
